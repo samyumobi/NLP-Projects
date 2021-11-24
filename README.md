@@ -1,5 +1,7 @@
 # NLP-Projects
 
+-- This repository contains source code and blog details for NLP projects.
+
 
 ## Blog 1:
 
